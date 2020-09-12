@@ -5,7 +5,7 @@ url: ""
 # THEME-SPECIFIC CONFIGURATION
 title: vanzandtphotography                                    # site's title
 description: ""      # used by search engines
-avatar: assets/img/camera.JPG                         # Empty for no avatar in navbar
+                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
