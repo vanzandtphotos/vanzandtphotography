@@ -3,7 +3,7 @@ baseurl: "vanzandtphotography"
 url: ""
 
 # THEME-SPECIFIC CONFIGURATION
-title: vanzandtphotography                                    # site's title
+title: Van Zandt Photography                                    # site's title
 description: ""      # used by search engines
                          # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
