@@ -1,14 +1,14 @@
 # Icons on the footer
 rss: true
-email_address:    # Full email address, e.g. "sam@example.com"
+email_address: "vanzandtphotography@gmail.com"    # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
-facebook:
+facebook: "https://www.facebook.com/vzphotos/"
 flickr:
 gitlab:
-github: "sylhare"
-instagram:
+github: 
+instagram: "https://www.instagram.com/van_zandt_/"
 keybase:
 linkedin:         # Full URL
 pinterest:
