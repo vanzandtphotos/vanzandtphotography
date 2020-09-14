@@ -9,8 +9,7 @@ description: "Family Lifestyle Photographer"      # used by search engines
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Family Lifestyle Photographer <br> Capturing memories, beauty and emotion. # Change Blog header text
-header_feature_image: assets/img/pexels/family-2.PNG
+
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
